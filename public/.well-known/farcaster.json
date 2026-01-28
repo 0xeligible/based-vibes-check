@@ -1,0 +1,16 @@
+{
+  "accountAssociation": {
+    "header": "eyJhbGciOiJFUzI1NksiLCJ0eXAiOiJKV1QifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlLXhwLWxlYWRlcmJvYXJkLnZlcmNlbC5hcHAifQ",
+    "signature": "MHQCIQDR_8N4X_INI_HANYA_DUMMY_NANTI_UPDATE_SETELAH_DEPLOY"
+  },
+  "frame": {
+    "version": "1.0.0",
+    "name": "Based Vibes Check",
+    "iconUrl": "https://domain-anda.vercel.app/icon.png",
+    "homeUrl": "https://domain-anda.vercel.app",
+    "imageUrl": "https://domain-anda.vercel.app/splash.png",
+    "buttonText": "Check My Vibe",
+    "splashBackgroundColor": "#0052FF"
+  }
+}
