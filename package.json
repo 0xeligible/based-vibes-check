@@ -1,0 +1,13 @@
+{
+  "accountAssociation": {
+    "header": "eyJhbGciOiJFUzI1NksiLCJ0eXAiOiJKV1QifQ",
+    "payload": "eyJkb21haW4iOiJiYXNlLXZpYmVzLWNoZWNrLnZlcmNlbC5hcHAifQ",
+    "signature": "MHQCIQDR_8N4X_DUMMY_SIGNATURE_GANTI_SETELAH_VERIFIKASI"
+  },
+  "frame": {
+    "version": "1.0.0",
+    "name": "Based Vibes Check",
+    "homeUrl": "https://based-vibes-check.vercel.app",
+    "iconUrl": "https://based-vibes-check.vercel.app/icon.png"
+  }
+}
